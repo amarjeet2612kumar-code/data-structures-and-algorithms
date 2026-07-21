@@ -10,14 +10,26 @@
 ## Practice Questions (25)
 
 ### Pattern Problems
-1. Print right-angle triangle pattern
-2. Print inverted triangle pattern
-3. Print pyramid / diamond pattern
-4. Print number triangle (Floyd's triangle)
-5. Print Pascal's triangle
-6. Print butterfly pattern
-7. Print hollow rectangle
-8. Print zigzag pattern
+| Phase | Pattern                      | Status          | Notes                                                                                            |
+| ----- | ---------------------------- | --------------- | ------------------------------------------------------------------------------------------------ |
+| 1     | Right Triangle               | ✅ Done          | You understood increasing stars and solved it yourself.                                          |
+| 2     | Inverted Triangle            | ✅ Done          | You solved it and even wrote a correct solution.                                                 |
+| 3     | Pyramid                      | ✅ Done          | You learned spaces, stars, row table, and derived the formulas yourself.                         |
+| 4     | Inverted Pyramid             | ✅ Done          | You completed the row table correctly and understood it's the reverse of a pyramid.              |
+| 5     | Diamond                      | 🟡 Concept Done  | You understood that it's **Pyramid + Inverted Pyramid**, but we haven't practiced it separately. |
+| 6     | Same Number Triangle         | ❌ Not Started   |                                                                                                  |
+| 7     | Increasing Number Triangle   | ❌ Not Started   |                                                                                                  |
+| 8     | Continuous Number Triangle   | ❌ Not Started   |                                                                                                  |
+| 9     | Floyd's Triangle             | ✅ Done 		  | You understood the idea of a **running counter**, but you haven't solved it independently yet.   |
+| 10    | Alphabet Triangle            | ❌ Not Started   |                                                                                                  |
+| 11    | Same Alphabet Triangle       | ❌ Not Started   |                                                                                                  |
+| 12    | Continuous Alphabet Triangle | ❌ Not Started   |                                                                                                  |
+| 13    | Hollow Rectangle             | ❌ Not Started   |                                                                                                  |
+| 14    | Hollow Pyramid               | ❌ Not Started   |                                                                                                  |
+| 15    | Butterfly                    | ❌ Not Started   |                                                                                                  |
+| 16    | Zigzag                       | ❌ Not Started   |                                                                                                  |
+| 17    | Pascal's Triangle            | 🟡 Theory Only  | We discussed the intuition, but I intentionally postponed practicing it.                         |
+
 
 ### Number Logic
 9. Check if a number is prime
