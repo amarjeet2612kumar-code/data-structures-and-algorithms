@@ -16,10 +16,10 @@
 | 2     | Inverted Triangle            | ✅ Done          | You solved it and even wrote a correct solution.                                                 |
 | 3     | Pyramid                      | ✅ Done          | You learned spaces, stars, row table, and derived the formulas yourself.                         |
 | 4     | Inverted Pyramid             | ✅ Done          | You completed the row table correctly and understood it's the reverse of a pyramid.              |
-| 5     | Diamond                      | 🟡 Concept Done  | You understood that it's **Pyramid + Inverted Pyramid**, but we haven't practiced it separately. |
-| 6     | Same Number Triangle         | ❌ Not Started   |                                                                                                  |
-| 7     | Increasing Number Triangle   | ❌ Not Started   |                                                                                                  |
-| 8     | Continuous Number Triangle   | ❌ Not Started   |                                                                                                  |
+| 5     | Diamond                      | ✅ Done          | You understood that it's **Pyramid + Inverted Pyramid**, but we haven't practiced it separately. |
+| 6     | Same Number Triangle         | ✅ Done          |                                                                                                  |
+| 7     | Increasing Number Triangle   | ✅ Done    |                                                                                                  |
+| 8     | Continuous Number Triangle   | ✅ Done   |                                                                                                  |
 | 9     | Floyd's Triangle             | ✅ Done 		  | You understood the idea of a **running counter**, but you haven't solved it independently yet.   |
 | 10    | Alphabet Triangle            | ❌ Not Started   |                                                                                                  |
 | 11    | Same Alphabet Triangle       | ❌ Not Started   |                                                                                                  |
