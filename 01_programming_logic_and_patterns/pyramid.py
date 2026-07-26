@@ -13,7 +13,6 @@ Expected Output:
 
 def pyramid(n):
     for j in range(n):
-        print(" "*int(n-j-1),"*"*int(2*j -1 + 2))
+        print(" "*(n-j-1),"*"*(2*j -1 + 2))
             
-
 pyramid(5)

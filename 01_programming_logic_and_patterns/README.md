@@ -18,13 +18,13 @@
 | 4     | Inverted Pyramid             | ✅ Done          | You completed the row table correctly and understood it's the reverse of a pyramid.              |
 | 5     | Diamond                      | ✅ Done          | You understood that it's **Pyramid + Inverted Pyramid**, but we haven't practiced it separately. |
 | 6     | Same Number Triangle         | ✅ Done          |                                                                                                  |
-| 7     | Increasing Number Triangle   | ✅ Done    |                                                                                                  |
-| 8     | Continuous Number Triangle   | ✅ Done   |                                                                                                  |
+| 7     | Increasing Number Triangle   | ✅ Done    	  |                                                                                                  |
+| 8     | Continuous Number Triangle   | ✅ Done   		  |                                                                                                  |
 | 9     | Floyd's Triangle             | ✅ Done 		  | You understood the idea of a **running counter**, but you haven't solved it independently yet.   |
-| 10    | Alphabet Triangle            | ❌ Not Started   |                                                                                                  |
-| 11    | Same Alphabet Triangle       | ❌ Not Started   |                                                                                                  |
-| 12    | Continuous Alphabet Triangle | ❌ Not Started   |                                                                                                  |
-| 13    | Hollow Rectangle             | ❌ Not Started   |                                                                                                  |
+| 10    | Alphabet Triangle            | ✅ Done 		  |                                                                                                  |
+| 11    | Same Alphabet Triangle       | ✅ Done 		  |                                                                                                  |
+| 12    | Continuous Alphabet Triangle | ✅ Done 		  |                                                                                                  |
+| 13    | Hollow Rectangle             | ✅ Done  		  |                                                                                                  |
 | 14    | Hollow Pyramid               | ❌ Not Started   |                                                                                                  |
 | 15    | Butterfly                    | ❌ Not Started   |                                                                                                  |
 | 16    | Zigzag                       | ❌ Not Started   |                                                                                                  |
