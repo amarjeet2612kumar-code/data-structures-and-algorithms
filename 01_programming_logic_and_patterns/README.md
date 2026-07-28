@@ -30,24 +30,54 @@
 | 16    | Zigzag                       | ❌ Not Started   |                                                                                                  |
 | 17    | Pascal's Triangle            | 🟡 Theory Only   | We discussed the intuition, but I intentionally postponed practicing it.                         |
 
+Digit Manipulation
+│
+├── Count Digits
+├── Reverse Number
+├── Sum of Digits
+├── Product of Digits
+├── Palindrome Number
+└── Digital Root
 
-### Number Logic
-9. Check if a number is prime
-10. Check palindrome number
-11. Find GCD / HCF of two numbers
-12. Find LCM of two numbers
-13. Armstrong number check
-14. Fibonacci series (iterative)
-15. Factorial of a number
-16. Sum of digits
-17. Reverse a number
-18. Count digits in a number
-19. Power of a number (without built-in)
-20. Check perfect number
+Divisibility & Factors
+│
+├── Find All Divisors
+├── Prime Number
+├── Prime Factorization
+├── GCD / HCF
+└── LCM
 
-### Basic Math for DSA
-21. Sieve of Eratosthenes (all primes up to N)
-22. Find all divisors of a number
-23. Modular arithmetic basics
-24. Trailing zeros in factorial
-25. Count set bits in a number
+Special Numbers
+│
+├── Armstrong
+├── Perfect Number
+├── Strong Number
+├── Automorphic Number
+└── Harshad Number
+
+Mathematical Computation
+│
+├── Factorial
+├── Power
+├── Fast Power
+├── Fibonacci (Iterative)
+└── Fibonacci (Recursive)
+
+Number Theory
+│
+├── Sieve of Eratosthenes
+├── Segmented Sieve (Optional)
+├── Modular Arithmetic
+├── Modular Exponentiation
+├── Trailing Zeros in Factorial
+└── Euler Totient (Advanced)
+
+Bit Manipulation Foundation
+│
+├── Binary Representation
+├── Count Set Bits
+├── Even/Odd using Bitwise
+├── Check Power of Two
+├── Single Number using XOR
+├── Swap without Third Variable
+└── Set/Clear/Toggle/Check ith Bit
