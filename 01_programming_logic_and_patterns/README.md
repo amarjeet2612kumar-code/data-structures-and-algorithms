@@ -25,10 +25,10 @@
 | 11    | Same Alphabet Triangle       | ✅ Done 		  |                                                                                                  |
 | 12    | Continuous Alphabet Triangle | ✅ Done 		  |                                                                                                  |
 | 13    | Hollow Rectangle             | ✅ Done  		  |                                                                                                  |
-| 14    | Hollow Pyramid               | ❌ Not Started   |                                                                                                  |
+| 14    | Hollow Pyramid               | ✅ Done  		  |                                                                                                  |
 | 15    | Butterfly                    | ❌ Not Started   |                                                                                                  |
 | 16    | Zigzag                       | ❌ Not Started   |                                                                                                  |
-| 17    | Pascal's Triangle            | 🟡 Theory Only  | We discussed the intuition, but I intentionally postponed practicing it.                         |
+| 17    | Pascal's Triangle            | 🟡 Theory Only   | We discussed the intuition, but I intentionally postponed practicing it.                         |
 
 
 ### Number Logic
