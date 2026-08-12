@@ -32,12 +32,12 @@
 
 | Phase | Topic                               |     Status    | Notes                                                      |
 | ----: | ----------------------------------- | :-----------: | ---------------------------------------------------------- |
-|     1 | Count Digits                        | ❌ Not Started | Foundation for digit extraction using `%` and `//`.        |
-|     2 | Reverse Number                      | ❌ Not Started | Reverse digits and reconstruct the number.                 |
-|     3 | Sum of Digits                       | ❌ Not Started | Traverse each digit and accumulate the sum.                |
-|     4 | Product of Digits                   | ❌ Not Started | Similar to sum of digits, using multiplication.            |
-|     5 | Palindrome Number                   | ❌ Not Started | Compare the original number with its reverse.              |
-|     6 | Digital Root                        | ❌ Not Started | Repeatedly sum digits until a single digit remains.        |
+|     1 | Count Digits                        | ✅ Done		 | Foundation for digit extraction using `%` and `//`.        |
+|     2 | Reverse Number                      | ✅ Done		 | Reverse digits and reconstruct the number.                 |
+|     3 | Sum of Digits                       |	✅ Done	 		| Traverse each digit and accumulate the sum.                |
+|     4 | Product of Digits                   | ✅ Done			 | Similar to sum of digits, using multiplication.            |
+|     5 | Palindrome Number                   | ✅ Done			 | Compare the original number with its reverse.              |
+|     6 | Digital Root                        | ✅ Done			 | Repeatedly sum digits until a single digit remains.        |
 |     7 | Find All Divisors                   | ❌ Not Started | Learn factor generation and divisor properties.            |
 |     8 | Prime Number                        | ❌ Not Started | Check whether a number has exactly two divisors.           |
 |     9 | Prime Factorization                 | ❌ Not Started | Decompose a number into its prime factors.                 |
