@@ -38,8 +38,8 @@
 |     4 | Product of Digits                   | ✅ Done			 | Similar to sum of digits, using multiplication.            |
 |     5 | Palindrome Number                   | ✅ Done			 | Compare the original number with its reverse.              |
 |     6 | Digital Root                        | ✅ Done			 | Repeatedly sum digits until a single digit remains.        |
-|     7 | Find All Divisors                   | ❌ Not Started | Learn factor generation and divisor properties.            |
-|     8 | Prime Number                        | ❌ Not Started | Check whether a number has exactly two divisors.           |
+|     7 | Find All Divisors                   | ✅ Done			 | Learn factor generation and divisor properties.            |
+|     8 | Prime Number                        | ✅ Done			 | Check whether a number has exactly two divisors.           |
 |     9 | Prime Factorization                 | ❌ Not Started | Decompose a number into its prime factors.                 |
 |    10 | GCD / HCF                           | ❌ Not Started | Learn the Euclidean Algorithm and common divisors.         |
 |    11 | LCM                                 | ❌ Not Started | Compute using GCD and divisibility concepts.               |
